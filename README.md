@@ -1,18 +1,12 @@
-# W3F Grant Proposal
+# Secret Network Grant Proposal
 
-- **Project Name:** Lootmogul
--  **Team Name:** Lootmogul
-- **Payment Address:** 0x69Ca7ed1E033B42C28D5e3a7B802Bd74F63E752a (ERC20 USDT)
-- **[Level](https://github.com/w3f/Grants-Program/tree/master#level_slider-levels):** 3
-
-## Project Overview :page_facing_up:
+# Lootmogul
 
 ### Overview
 
 **LootMogul** is a multiverse blockchain gaming, NFT, crypto, landsale metaverse platform for sports athletes and fans to engage. Sports athletes from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto tokenomics. Team of 20 blockchain & game developers, designers and founders from Santa Monica/Malibu, California. Currently, Lootmogul has 180 sports athletes (Influencers) signed up under a two+ years contract and a total reach of 65 Million people.
 
-### Project Details
-
+## Project Description
 ![Lootmogul Demo - Build your own metaverse land](https://lootmogul.com/_next/image?url=https%3A%2F%2Fmedia-content.lootmogul.com%2FCreate_Land_2_1440x600_dc8b092056_095d617610.webp&w=3840&q=75)
 
 LootMogul is an influencer-led sports metaverse gaming platform powered by exclusive properties (Lands, Stadium, Arenas, etc.), NFTs, and token rewards for the fans and business community.
@@ -35,29 +29,28 @@ LootMogul community - https://www.instagram.com/lootmogul/
 
 Finally, LootMogul's seed round is funded by billion-dollar web 3 crypto companies and web 2 traditional equity venture funds - Harmony, PowerHouse Ventures, BCT, and u2poia with grants from Polygon and Sandbox. Our token round of investments are going to be lead by Woodstock, SL2 Capital, Animoca Brands and others.
 
+We intend to create a staking derivatives on Secret Network. More implementations will increase capital efficiecy in Secret Network and enable SCRT staked to secure Secret Network to be used in other Secret Network applications such as DeFi, governance and games.
+
+Our team has been closely following Ethereum DeFi and Secret Network in the last year, and are active in the chat channels. Needless to say, we are really excited to see this project evolve.
+
 #### Architecture
 
 ![Lotmogul Server Architecture](https://github.com/nilesh-sukalikar/image-storage/blob/main/architecture.jpeg?raw=true)
 
+## Problem / Solution
+**Problem** : Sport's athletes do not have opportunity to build community, engagement, monetize and be part of metaverse. They are unable to capitalize their global fan engagement etc.
+"Solution" :
 
+## Detailed product description
+The components of staking derivatives (dxSCRT) contract include a validator set module that determines validator participation, staking module which handles bonded tokens and liquidity pool.
 
-#### Technology Stack
+## Go-to-Market plan
+As dxSCRT is a clear value proposition for existing SCRT holders, we hope to promote this effort within the Secret Network community
 
-- React
-- React-native
-- Node.js
-- 3D Model Design
-- Polygon Matic
-- Strapi CMS
+## Value capture for Secret Network ecosystem
+The main KPIs for Secret Network is TVL (privacy value add to other blockchain ecosystems), number of transactions and number of user (for applications)
 
-### Ecosystem Fit
-
-
-
-## Team :busts_in_silhouette:
-
-### Team members 
-
+## Team members
 Raj RajKotia - Founder, CEO
 
 Kuntal Sampat - Co-Founder, COO
@@ -70,20 +63,8 @@ Harshit Kashiv - Growth Marketing
 
 Vibhu Sirvastava - Community Management
 
-
-
-
-### Contact
-
-- **Contact Name:** Raj Rajkotia / Kuntal Sampat
-- **Contact Email:** raj@lootmogul.com / kuntal.sampat@lootmogul.com
-- **Address:** HQ: 3301 Ocean Park Blvd, Unit 205, Santa Monica, CA 90405
-- **Website:** https://lootmogul.com/
-
-### Legal Structure
-
-- **Registered Address:** No legal structure yet.
-- **Registered Legal Entity:** No legal structure yet.
+## Team Website	
+ **Website:** https://lootmogul.com/
 
 ### Team's experience
 
@@ -100,9 +81,9 @@ Harshit works in Growth Marketing of Lootmogul with an experience of over 5 year
 
 Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of experience in team leadership, Growth Marketing, Retention Marketing, digital marketing, brand communication, e-commerce management, content management, and project management.
 
+We've been a team for 2 years, and....
 
 ### Team Code Repos
-
 - https://github.com/Nextgentm/lootmogul-mobile
 - https://github.com/Nextgentm/quizsocketserver
 - https://github.com/Nextgentm/gameplatform-cms
@@ -148,16 +129,6 @@ Vibhu Sirvastava is in Community Management at Lootmogul with 11+ years of exper
 - Troy Brazell
 - Thomas E. Doyle
 
-
-
-
-<!-- ## Development Status :open_book:
-
-- https://lootmogul.com/metaverse This is metaverse implementaion for stadium landsale with momento360 view.
-- https://lootmogul.com/ This is our web app repo according to Milestone 1. We already had a single page app with polkadot js API integrated now.
-- https://github.com/AdMetaNetwork/admeta-decentraland This is a simple asset built with Decentraland SDK, and currently it's just for a demo purpose.
-- https://admeta.network/ We also have the first version of our website. -->
-
 ## Development Roadmap :nut_and_bolt:
 
 ### Milestone 1 — Implementing NFT, metaverse using polkadot blockchain.
@@ -195,6 +166,5 @@ The metaverse is the next evolution of social space and connection. Lootmogul's 
 
 In a long run, we will cooperate and adapt our products with more Metaverse platforms, and also we will develop more creative and interactive ad types.
 
-## Additional Information :heavy_plus_sign:
-
-**How did you hear about the Grants Program?** Personal recommendation
+## Additional Information
+N/A.
