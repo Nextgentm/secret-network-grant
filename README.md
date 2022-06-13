@@ -50,7 +50,7 @@ Our team has been closely following Ethereum DeFi and Secret Network in the last
 
 #### Why us
 
-![Why us](https://github.com/nilesh-sukalikar/image-storage/blob/main/out-vision.png?raw=true)
+![Why us](https://github.com/nilesh-sukalikar/image-storage/blob/main/why-us.png?raw=true)
 
 
 ## Detailed product description
