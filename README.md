@@ -57,6 +57,8 @@ Our team has been closely following Ethereum DeFi and Secret Network in the last
 
 ![Lotmogul Server Architecture](https://github.com/nilesh-sukalikar/image-storage/blob/main/architecture.jpeg?raw=true)
 
+![roadmap](https://github.com/nilesh-sukalikar/image-storage/blob/main/roadmap.png?raw=true)
+
 ## Go-to-Market plan
 As dxSCRT is a clear value proposition for existing SCRT holders, we hope to promote this effort within the Secret Network community
 
@@ -168,7 +170,7 @@ We've been a team for 2 years, and....
 
 ### Development roadmap
 
-![roadmap](https://github.com/nilesh-sukalikar/image-storage/blob/main/roadmap.png?raw=true)
+
 
 - Polkadot integration 
 - Game development - (Q3, Q4)
