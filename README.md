@@ -33,9 +33,7 @@ We intend to create a staking derivatives on Secret Network. More implementation
 
 Our team has been closely following Ethereum DeFi and Secret Network in the last year, and are active in the chat channels. Needless to say, we are really excited to see this project evolve.
 
-#### Architecture
 
-![Lotmogul Server Architecture](https://github.com/nilesh-sukalikar/image-storage/blob/main/architecture.jpeg?raw=true)
 
 ## Problem / Solution
 **Problem** : Sport's athletes do not have opportunity to build community, engagement, monetize and be part of metaverse. They are unable to capitalize their global fan engagement etc.
@@ -54,7 +52,10 @@ Our team has been closely following Ethereum DeFi and Secret Network in the last
 
 
 ## Detailed product description
-The components of staking derivatives (dxSCRT) contract include a validator set module that determines validator participation, staking module which handles bonded tokens and liquidity pool.
+
+#### Architecture
+
+![Lotmogul Server Architecture](https://github.com/nilesh-sukalikar/image-storage/blob/main/architecture.jpeg?raw=true)
 
 ## Go-to-Market plan
 As dxSCRT is a clear value proposition for existing SCRT holders, we hope to promote this effort within the Secret Network community
@@ -166,6 +167,9 @@ We've been a team for 2 years, and....
 |     8. | Final Release            | * Final integration & regression testing. <br /> * Early access to scholars/KOL and full production release                                                    |
 
 ### Development roadmap
+
+![roadmap](https://github.com/nilesh-sukalikar/image-storage/blob/main/roadmap.png?raw=true)
+
 - Polkadot integration 
 - Game development - (Q3, Q4)
 - Backend platform enhancement
