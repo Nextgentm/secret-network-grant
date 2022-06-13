@@ -40,15 +40,15 @@ Our team has been closely following Ethereum DeFi and Secret Network in the last
 ## Problem / Solution
 **Problem** : Sport's athletes do not have opportunity to build community, engagement, monetize and be part of metaverse. They are unable to capitalize their global fan engagement etc.
 
-#### Solution 
+### Solution 
 
 ![Solution](https://github.com/nilesh-sukalikar/image-storage/blob/main/solution.png?raw=true)
 
-#### Our Vision
+### Our Vision
 
 ![Vision](https://github.com/nilesh-sukalikar/image-storage/blob/main/out-vision.png?raw=true)
 
-#### Why us
+### Why us
 
 ![Why us](https://github.com/nilesh-sukalikar/image-storage/blob/main/why-us.png?raw=true)
 
