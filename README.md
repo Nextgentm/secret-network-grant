@@ -62,9 +62,6 @@ Our team has been closely following Ethereum DeFi and Secret Network in the last
 ## Go-to-Market plan
 As dxSCRT is a clear value proposition for existing SCRT holders, we hope to promote this effort within the Secret Network community
 
-## Value capture for Secret Network ecosystem
-The main KPIs for Secret Network is TVL (privacy value add to other blockchain ecosystems), number of transactions and number of user (for applications)
-
 ## Team members
 Raj RajKotia - Founder, CEO
 
