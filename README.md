@@ -39,7 +39,11 @@ Our team has been closely following Ethereum DeFi and Secret Network in the last
 
 ## Problem / Solution
 **Problem** : Sport's athletes do not have opportunity to build community, engagement, monetize and be part of metaverse. They are unable to capitalize their global fan engagement etc.
-"Solution" :
+
+Solution" :
+
+![Solution](https://github.com/nilesh-sukalikar/image-storage/blob/main/solution.png?raw=true)
+
 
 ## Detailed product description
 The components of staking derivatives (dxSCRT) contract include a validator set module that determines validator participation, staking module which handles bonded tokens and liquidity pool.
