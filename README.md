@@ -151,7 +151,7 @@ We've been a team for 2 years, and....
 
 ## Development Roadmap :nut_and_bolt:
 
-### Milestone 1 — Implementing NFT, metaverse using polkadot blockchain.
+### Milestone 1 — Implementing NFT, metaverse using secret-network blockchain.
 
 - **Estimated duration:** 6 months
 - **FTE:** 4 to 5 developers
