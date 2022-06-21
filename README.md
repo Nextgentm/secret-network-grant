@@ -164,10 +164,10 @@ We've been a team for 2 years, and....
 |    0c. | Testing Guide               | Unit testing will be applied to ensure reliability. Documentation of tests and results will be provided                                                                                                                      |
 |    0d. | Video                      | We will provide a video demonstration that will illustrate all of the functionality delivered with this milestone.                                                                                                                                                                                                  |
 |    0e. | Article                     | We will publish an **article**/workshop/gitbook that explains our application workflow as well as technical details.                                                                                                                                                                                                   |
-|    1. | Core Foundation and Infrastructure Setup                     |  * GitHub/Lab Polkadot dev branch & configure supporting APIs. <br />                                                                    * Finalize requirements with internal game developers & KOL                                                                                                                                                                                                                                                                                                   |
-|    2. | Smart Contract libraries for NFT Marketplace               | * Ability to mint meta NFTs using Polkadot.<br /> * Ability to set royalty, pricing, KOL & guild specific tracking on Polkadot                                                          |
-|    3. | Stablecoin integration with Polkadot               | * Stable coin transaction for game in-app purchases. <br /> * Stable coin integration for all metaverse NFT and land sale                                                                                                                                 |
-|    4. | Browser extension of Kaikas wallet                      | * Web 3 integration for the Kaikas wallet. <br />  * NFT/Meta/Game transaction authorization and wallet tracking                                                                                                                                                                                                |
+|    1. | Core Foundation and Infrastructure Setup                     |  * GitHub/Lab Secreat-Network dev branch & configure supporting APIs. <br />                                                                    * Finalize requirements with internal game developers & KOL                                                                                                                                                                                                                                                                                                   |
+|    2. | Smart Contract libraries for NFT Marketplace               | * Ability to mint meta NFTs using Secret-Network .<br /> * Ability to set royalty, pricing, KOL & guild specific tracking on Sewcret-network                                                          |
+|    3. | Stablecoin integration with Secret Network               | * Stable coin transaction for game in-app purchases. <br /> * Stable coin integration for all metaverse NFT and land sale                                                                                                                                 |
+|    4. | Browser extension of keplr wallet                      | * Web 3 integration for the Keplr wallet. <br />  * NFT/Meta/Game transaction authorization and wallet tracking                                                                                                                                                                                                |
 |    5. | Fractional stadium and land ownership                     | * Integrate in-game fractional NFT ownership. <br /> * Integrate stadium fractional ownership                                                                                                                                |
 |     6. | Proof of contribution platform integration        | * Evaluate all possible proof of contribution integration for LootMogul. <br /> * Select specific paths for metaverse and in-game staking/rewards mechanics |
 |     7. | Game development and Guild integration | * Selective on chain transactions migrations for game dev. <br /> * Integrate scholar/community managers rewards for Guilds                                                                  |
@@ -175,13 +175,13 @@ We've been a team for 2 years, and....
 
 ### Development roadmap
 
-
-
-- Polkadot integration 
+- Secret Network integration 
 - Game development - (Q3, Q4)
 - Backend platform enhancement
 - Cross platform (blockchain) integration
 - Tokens launch (in game)
+
+![roadmap](https://github.com/nilesh-sukalikar/image-storage/blob/main/roadmap.png?raw=true)
 
 ## Future Plans
 
