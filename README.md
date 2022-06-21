@@ -33,23 +33,25 @@ We intend to create a staking derivatives on Secret Network. More implementation
 
 Our team has been closely following Ethereum DeFi and Secret Network in the last year, and are active in the chat channels. Needless to say, we are really excited to see this project evolve.
 
-
-
 ## Problem / Solution
 **Problem** : Sport's athletes do not have opportunity to build community, engagement, monetize and be part of metaverse. They are unable to capitalize their global fan engagement etc.
 
 ### Solution 
+- Play with your favourite sports influecers in a metaverse
+- Influencer led fan engagement in a sports and entertainment centric metaverse through multi-player blockchain-games, NFTs, crypto and In Real Life (IRL) rewards
 
-![Solution](https://github.com/nilesh-sukalikar/image-storage/blob/main/solution.png?raw=true)
-
-### Our Vision
-
-![Vision](https://github.com/nilesh-sukalikar/image-storage/blob/main/out-vision.png?raw=true)
+### Our Vision (What we are building)
+#### A MULTIVERSE FOR SPORTS INFLUENCERS AND FANS TO ENGAGE POWERED BY GAMING GUILDS AND BRANDS
+- We build sports fan engagement model through our competitive multi-player blockchain games, NFTs, and real-world celebrity experiences
+- We provide simplified tools to celebrities, fans, game developers & metaverse platforms to personalize & integrate with our sports community
+- We empower gaming guilds, brands, and community to own, lease and earn life-time royalties through NFT stadiums, seats, avatars, wearables etc.
 
 ### Why us
+#### We are expensing web3 community by bringing web2 sports fanatics & gamers into metaverse.
 
-![Why us](https://github.com/nilesh-sukalikar/image-storage/blob/main/why-us.png?raw=true)
-
+- Our star athletes uses a unique academy approach to coach/engage with their fans through our metaverse games, leadership camps with In-Real Life (IRL) access & rewards. Our first multi-player trivia game is already live and many more to come over the next several months
+- Companies or Gaming guilds can own or lease NFT stadiums, seats, banners, celebrity avatars, game power, wearables etc. for their community and scholars at 25% to 75% discount with 4% APY during the members only (Lootmogul Citizen) pre-sale events and mega launch parties such as NBA all-star weekend, NFL Superbowl, World Championship etc.
+- First mover advantage to bring professional atheletes, sports influencers and fans to metaverse gaming platform with real world celebrity exclusive experiences and own their fandom real estate (sports metaverse* lands e.g. stadium, playgrounds, studios, experience labs etc.)
 
 ## Detailed product description
 
@@ -57,10 +59,16 @@ Our team has been closely following Ethereum DeFi and Secret Network in the last
 
 ![Lotmogul Server Architecture](https://github.com/nilesh-sukalikar/image-storage/blob/main/architecture.jpeg?raw=true)
 
-![roadmap](https://github.com/nilesh-sukalikar/image-storage/blob/main/roadmap.png?raw=true)
-
 ## Go-to-Market plan
-As dxSCRT is a clear value proposition for existing SCRT holders, we hope to promote this effort within the Secret Network community
+### Client Background 
+Lootmogul is a multiverse blockchain gaming platform for sports influencers and fans to engage. Sports influencers from NBA, WNBA, NFL, MLB, NHL, ICC, Olympics, etc. lead the fan engagement model in our metaverse through gaming, unrivaled experiences, NFTs, and crypto tokenomics. Team of 20 blockchain & game developers, designers and founders from Santa Monica/Malibu, California. Currently, Lootmogul has 112 sports athletes signed up under a two year contract and a total reach of 65 Million people. 
+### Project Goal 
+Loot Mogul seeks to have a multiplayer basketball game which also showcases NFT features. The characters are based on the players such as Lisa Leslie, Carlos Boozer, Mario Chalmers, and many others. 
+
+### Project Description 
+The project is to build a Minimum Viable Product of the Basketball + NFT game. 
+
+![roadmap](https://github.com/nilesh-sukalikar/image-storage/blob/main/roadmap.png?raw=true)
 
 ## Team members
 Raj RajKotia - Founder, CEO
